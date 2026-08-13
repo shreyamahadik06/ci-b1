@@ -6,3 +6,4 @@ for num in range(2, 11):
             break
     if is_prime:
         print(num)
+//print prime numbers
