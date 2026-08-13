@@ -22,4 +22,4 @@ jobs:
 
       - name: Run Python Program
         run: |
-          python index.py
+          python main.py
